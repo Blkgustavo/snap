@@ -57,7 +57,7 @@ Snap is a bash based script for zsh based termux and from this tool you can do m
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/snap`
+* `git clone https://github.com/Blkgustavo/snap`
 * `cd $HOME`
 * `ls`
 * `cd snap`
