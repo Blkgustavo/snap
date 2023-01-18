@@ -12,15 +12,15 @@ pink='\033[1;35m'
 #-----------------
 # Coding starts
 clear
-echo ' \__________________________/
+echo '      \__________________________/
        __/__|________________|__\__
          /⭕⭕_____________⭕⭕\
        |__/______GTR-R34____\____|
        \©©______|__|__|__|_____©©/  '|lolcat
 echo 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo YOUTUBE- Noob Hackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn BLK$red ◀$rset"
+echo -e "$red                 ⫸$ylo YOUTUBE- Blk_Gustavo$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red              [NOTE:- NEED INTERNET CONNECTION]$rset"
@@ -29,8 +29,8 @@ echo " "
 echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [1️⃣] Termux backup"
-echo -e "$red                        ➡$cyan [2️⃣] Termux restore"
+echo -e "$red                        ➡$cyan [1️⃣] Link para dados"
+echo -e "$red                        ➡$cyan [2️⃣] Link imagem"
 echo -e "$red                        ➡$cyan [3️⃣] Update script"
 echo -e "$red                        ➡$cyan [4️⃣] Exit"
 echo " "
