@@ -1,144 +1,79 @@
-# A tool by nitrp from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
-#-----------------
-red='\033[1;31m'
-rset='\033[0m'
-grn='\033[1;32m'
-ylo='\033[1;33m'
-blue='\033[1;34m'
-cyan='\033[1;36m'
-pink='\033[1;35m'
-#-----------------
-# Coding starts
-clear
-echo '      \__________________________/
-       __/__|________________|__\__
-         /⭕⭕_____________⭕⭕\
-       |__/______GTR-R34____\____|
-       \©©______|__|__|__|_____©©/  '|lolcat
-echo 
+<!DOCTYPE html>
 
-echo -e "$red                      ▶ Coded by$grn BLK$red ◀$rset"
-echo -e "$red                 ⫸$ylo YOUTUBE- Blk_Gustavo$red ⫷$rset"
-echo 
-# Functions
-echo -e "$red              [NOTE:- NEED INTERNET CONNECTION]$rset"
-echo " "
-echo " "
-echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
-echo " "
-echo " "
-echo -e "$red                        ➡$cyan [1️⃣] Link para dados"
-echo -e "$red                        ➡$cyan [2️⃣] Link imagem"
-echo -e "$red                        ➡$cyan [3️⃣] Update script"
-echo -e "$red                        ➡$cyan [4️⃣] Exit"
-echo " "
-echo " "
-echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
-echo " "
-echo -e "$cyan                   [[[$ylo Select any option$cyan]]]$rset"
-echo " "
-read n
-case "$n" in
-1)echo " "
-echo " "
-echo " "
-echo -e "$red               You are going to$grn Backup$red Termux$rset"
-echo " "
-echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
-echo " "
-read hulke
-cd $HOME/snap/bars
-echo " "
-echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
-read choice
-if [ $choice = 't' ] ; then
-echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
-read hulkee
-cd $HOME/snap/
-bash snap.sh
-else
-bash backup.sh
-echo " "
-echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
-echo " "
-echo -e "$cyan            click$grn ENTER$cyan to go back into snap menu$rset"
-echo " "
-read punch
-fi
-cd $HOME/snap
-bash snap.sh ;;
+    <html lang="pt-br"
+    
+    meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Login</title> <link rel="stylesheet" href="estilos/style.css">
+    <h1>Olá Mundo</h1>
 
-2)echo " "
-echo " "
-echo " "
-echo -e "$red                You are going to$red Restore termux$rset "
-echo " "
-echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
-echo " "
-read nitro
-cd $HOME/snap/bars
-echo " "
-echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
-read choice
-if [ $choice = 't' ] ; then
-echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-read nitroo
-cd $HOME/snap
-bash snap.sh
-else
-bash restore.sh
-echo " "
-echo " "
-echo -e "$grn ＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
-echo " "
-echo -e "$cyan             click$grn ENTER$cyan to go back into snap menu$rset"
-echo " "
-read punch
-fi
-cd $HOME/snap
-bash snap.sh ;;
-3)echo " "
-echo " "
-echo " "
-echo -e "$red             You are going to$grn Update the$red Script$rset "
-echo " "
-echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
-echo " "
-read mon
-cd $HOME/snap/bars
-echo " "
-echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
-read choice
-if [ $choice = 't' ] ; then
-echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
-read monn
-cd $HOME/snap
-bash snap.sh
-else
-bash update.sh
-echo " "
-echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
-echo " "
-echo -e "$cyan        click$grn ENTER$cyan to go back into snap menu$rset"
-echo " "
-read punch
-fi
-cd $HOME/snap
-bash snap.sh ;;
-4)
-sleep 2.0
-clear
-echo " "
-echo -e "$grn
-     ____  _  _  ____    ____  _  _  ___
-    (  _ \( \/ )( ___)  (  _ \( \/ )( ___)
-     ) _ < \  /  )__)    ) _ < \  /  )__)
-    (____/ (__) (____)  (____/ (__) (____)...$cyan have a awesome day$rset"
-echo " "
-echo " "
-cd $HOME
-esac
+    
+    </head>
+    
+    <body>
+    
+    <main
+    
+    <section id="Login"
+    
+    
+    
+    <div id="imagem">
+    
+    Foto
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <div id="formulario">
+    
+    <h1>Login</h1> <p>Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder fazer as configurações no seu ambiente.</p>
+    
+    <form action="login.php" method="post">
+    
+    
+    
+    
+    
+    
+    
+    </form>
+    
+    
+    
+    </div>
+    
+    
+    
+    </section>
+    
+    
+    
+</main>
+    
+    
+    
+    </body>
+    
+    </html>
